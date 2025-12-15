@@ -312,7 +312,7 @@ header .container {
 
 /* About Section */
 .about {
-    padding: 100px 0;
+    padding: 60px 0;
     background-color: var(--white);
 }
 
@@ -406,7 +406,7 @@ header .container {
 
 /* Services Section */
 .services {
-    padding: 100px 0;
+    padding: 55px 0;
     background-color: var(--primary);
 }
 
@@ -493,7 +493,7 @@ header .container {
 
 /* Approach Section */
 .approach {
-    padding: 100px 0;
+    padding: 60px 0;
     background-color: var(--white);
 }
 
@@ -546,7 +546,7 @@ header .container {
 
 /* Reviews Section */
 .reviews {
-    padding: 100px 0;
+    padding: 55px 0;
     background-color: var(--primary);
 }
 
@@ -732,7 +732,7 @@ footer {
 /* Мобильные устройства (до 768px) */
 @media (max-width: 768px) {
     .hero {
-        padding: 150px 0 80px;
+        padding: 60px 0 80px;
         margin-top: 70px;
     }
     
@@ -827,7 +827,7 @@ footer {
         flex-direction: column;
         gap: 0;
         width: 100%;
-        padding: 20px 0;
+        padding: 1px 0;
     }
     
     .nav-menu li {
@@ -839,7 +839,7 @@ footer {
         display: block;
         padding: 15px 20px;
         border-radius: 0;
-        font-size: 16px;
+        font-size: 18px;
         border-bottom: 1px solid var(--border);
     }
     
