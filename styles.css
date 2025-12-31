@@ -109,7 +109,7 @@ header .container {
     display: none;
     background: none;
     border: none;
-    font-size: 24px;
+    font-size: 27px;
     color: var(--text-dark);
     cursor: pointer;
     padding: 8px;
@@ -837,7 +837,7 @@ footer {
     
     .nav-menu li a {
         display: block;
-        padding: 15px 20px;
+        padding: 23px 20px;
         border-radius: 0;
         font-size: 18px;
         border-bottom: 1px solid var(--border);
